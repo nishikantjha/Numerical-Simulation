@@ -1,0 +1,20 @@
+14:45:31 - INFO - --- Running Baseline Simulation ---
+14:45:31 - INFO - Initial condition set: Gaussian Pulse
+14:45:31 - INFO - Simulation completed in 0.0957s. Final Power: 1.7725
+14:45:31 - INFO - Plot saved to output/evolution_baseline.png
+14:45:31 - INFO - Power Conservation Deviation: 0.000000%
+14:45:31 - INFO - --- Test: No Nonlinearity ---
+14:45:31 - INFO - Initial condition set: Gaussian Pulse
+14:45:31 - INFO - Simulation completed in 0.0681s. Final Power: 1.7725
+14:45:31 - INFO - Plot saved to output/evolution_no_nonlinearity.png
+14:45:31 - INFO - Power Conservation Deviation: 0.000000%
+14:45:31 - INFO - --- Test: No Dispersion ---
+14:45:31 - INFO - Initial condition set: Gaussian Pulse
+14:45:31 - INFO - Simulation completed in 0.0941s. Final Power: 1.7725
+14:45:32 - INFO - Plot saved to output/evolution_no_dispersion.png
+14:45:32 - INFO - Power Conservation Deviation: 0.000000%
+14:45:32 - INFO - --- Test: Linear Loss ---
+14:45:32 - INFO - Initial condition set: Gaussian Pulse
+14:45:32 - INFO - Simulation completed in 0.0964s. Final Power: 0.6520
+14:45:32 - INFO - Plot saved to output/evolution_with_loss.png
+14:45:32 - INFO - Power Conservation Deviation: 63.212056%
